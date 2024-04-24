@@ -12,6 +12,10 @@ How to install:
 8. Start sharing your locations with others! 
 
 
+![](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/blob/main/Geofence2.gif)
+
+
+
 ## Development notes
 Minimum SDK is 30
 Target SDK is 34
