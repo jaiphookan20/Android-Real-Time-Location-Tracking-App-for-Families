@@ -10,35 +10,53 @@ How to install:
 5. Build the app. Note: The minimum SDK is API 30.
 6. Run on Android Emulator or your own device
 7. **IMPORTANT:** In order to enable tracking of your location, click on the "Enable Location" button on the Map, that will redirect you to SafeNest's App Permissions page on Settings. Here you must set Location Permissions to "Allow all the Time" in order for location-tracking and geofencing features to work correctly. Without enabling this feature, the aforementioned features will not function correctly. 
-8. Start sharing your locations with others! 
+8. Start sharing your locations with others!
 
-**Home Screen:**
-![Screenshot 2024-04-22 at 3.59.59 pm.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/43032377-5099-4b44-9271-e63eb594687c/e2e7c481-299f-4816-a29c-0e4f6fd6b648/Screenshot_2024-04-22_at_3.59.59_pm.png)
+# **App Features Showcase:**
 
-**Enable All Required Notifications in order to utilize the app:**
-![Screenshot 2024-04-22 at 4.02.11 pm.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/43032377-5099-4b44-9271-e63eb594687c/b63d66f4-01fe-4909-a6ef-9a4652d5ec2e/Screenshot_2024-04-22_at_4.02.11_pm.png)
+# Realtime Location Tracking & Geofence Notifications in Action (GIF) 
+Set a geofence for your child's school or workplace, so you don't lose any sleep and be notified when they've reached or exited where they're meant to be! All members of the circle will be notified when any member enters or exits the created geofences.
 
-**Sign-up Screen:**
-![Screenshot 2024-04-22 at 4.01.12 pm.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/43032377-5099-4b44-9271-e63eb594687c/093a90e4-25f0-440f-b70d-e45a8426e5be/Screenshot_2024-04-22_at_4.01.12_pm.png)
+![](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/blob/main/Geofence2.gif)
 
-**Create a Circle/Group so that you can stay in touch of your familiy member's whereabouts! :**
-![Screenshot 2024-04-23 at 12.49.53 pm.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/43032377-5099-4b44-9271-e63eb594687c/be60d2cf-a9cf-4217-8ed1-8a99bd3cbb12/Screenshot_2024-04-23_at_12.49.53_pm.png)
 
-**Joining a Circle:**
+## **Home Screen:**
+
+![Screenshot 2024-04-22 at 3 59 59 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/171d292f-8b57-47e5-8376-b4d8b5f7a171)
+
+## **Sign-up Screen:**
+
+![Screenshot 2024-04-22 at 4 01 12 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/e39155e2-d13f-4ef8-affb-e31cf6e63793)
+
+### **Create a Circle/Group so that you can stay in touch of your familiy member's or Friends whereabouts! :**
+
+![Screenshot 2024-04-23 at 12 49 09 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/575421b9-5daa-4efb-a149-b012b34fb280)
+
+## List of All Circles that you're part of:
+
+![image](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/928e4ec5-bd55-429b-81cb-6170e6c9ccad)
+
+
+## **Joining a Circle:**
+
 Once a particular member decides to create a circle, that person must share the invite code to the other prospective members they seek to join the circle. A User will only be able to join a circle this way, upon entering the correct invite code
+
 ![image](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/65de8478-636e-47c1-9bbf-23d794c372e0)
 
-![Screenshot 2024-04-23 at 12.45.13 pm.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/43032377-5099-4b44-9271-e63eb594687c/a4a5e949-1e23-4de4-b76a-a37cfd852f52/Screenshot_2024-04-23_at_12.45.13_pm.png)
-
-**Real-time Location Mapping of the members of your circle:**
+## **Real-time Location Mapping of the members of your circle:**
 The light coloured circles are the geofences created by the members of your circle
 
 ![Screenshot 2024-04-24 at 8 55 16 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/ce9261b5-8719-4148-9295-2a9b7383fcbb)
 
 ![Screenshot 2024-04-24 at 3 08 31 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/91a0156b-e436-499d-8841-1ed4490785da)
 
+## List of Members part of the Circle:
 
-**Creating a Geofence in order for family members to be notified when a circle member enters or exits a Geofence:**
+![Screenshot 2024-04-24 at 8 39 32 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/61df5c51-0c63-4586-9ed3-9ec61eec6880)
+
+## Creating a Geofence in order for Family members to be notified when a circle member enters or exits a Geofence:
+Set a geofence for your child's school or workplace, so you don't lose any sleep and be notified when they've reached or exited where they're meant to be!
+
 
 ![Screenshot 2024-04-24 at 8 54 59 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/0039bfef-f106-4dfb-839d-88c323d49949)
 
@@ -46,8 +64,10 @@ The light coloured circles are the geofences created by the members of your circ
 
 ![Screenshot 2024-04-23 at 12 34 22 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/f6d80167-cc9d-463e-b364-a41574e064cd)
 
-**Geofence Notifications in Action:** 
-![](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/blob/main/Geofence2.gif)
+## Keep Track of your Created Geofences & Delete them if necessary:
+
+![Screenshot 2024-04-24 at 3 42 16 pm](https://github.com/jaiphookan20/Android-Real-Time-Location-Tracking-App-for-Families/assets/52240311/f815481e-2928-41f7-8309-c8855d422a10)
+
 
 
 ## Development notes
