@@ -1,5 +1,5 @@
 # SafeNest: a Real-Time Location Tracking App for Families:
-Collaborative project. I handled backend functionality in a team of 2.
+• Collaborative project. I handled backend functionality in a team of 2.
 • Context-aware Android application designed to enhance family safety
 • Incorporates real-time, simultaneous location tracking for multiple family members & uses geofencing technology to
 trigger alerts when members enter or exit designated zones
